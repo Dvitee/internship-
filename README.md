@@ -1,3 +1,3 @@
 # internship-
 
-the code and the questions are in the same noteboo file.
+the code and the questions are in the same notebook file.
